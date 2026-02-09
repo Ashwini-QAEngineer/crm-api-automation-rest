@@ -1,0 +1,10 @@
+{
+  "name": "crm-api-automation-rest", "version": "1.0.0",
+  "description": "REST API — Jest + Axios — CRM",
+  "author": "Ashwini G <gashwini.de@gmail.com>", "private": true,
+  "scripts": { "test": "jest" },
+  "devDependencies": {
+    "@types/jest": "^29.5.0", "axios": "^1.6.0",
+    "jest": "^29.7.0", "ts-jest": "^29.1.0", "typescript": "^5.4.0"
+  }
+}
